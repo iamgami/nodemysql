@@ -1,8 +1,4 @@
-**This Is MaalGaadi Driver App Setup.**
-
-MaalGaadi is a first of its kind in load picking and delivering throughout the city boundaries with an efficient and timely live tracking of your load. We cater variety in sizes and types of goods for the loading process,
-ranging from Tata Ace to all loading trucks, spanning across the city.
-
+**This Is Test App Setup.**
 Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. Node.js
 uses an event-driven, non-blocking I/O model that makes it lightweight and
 efficient. The Node.js package ecosystem, [npm][], is the largest ecosystem of
